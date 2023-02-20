@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hello.nzh</string>
+    <string name="my_name">NA ZI HENG</string>
+    <string name="show_btn">SHOW</string>
+    <string name="hide_btn">HIDE</string>
+</resources>
